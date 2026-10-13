@@ -1,0 +1,6 @@
+{
+  "name": "CryptoVest - USDT Investment & Trading Platform",
+  "description": "Secure crypto investment and trading platform with USDT TRC20/ERC20 wallet deposits and withdrawals, admin-provisioned user accounts, daily yields, and comprehensive administrative back-office.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
